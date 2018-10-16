@@ -1,5 +1,5 @@
-Implemented sentimental analysis using k-nearest neighbor
-Text was preprocessed using NLTK by removing stop words and non-alphabets, and tokenization
+Implemented sentimental analysis using k-nearest neighbor.
+Text was preprocessed using NLTK by removing stop words and non-alphabets, and tokenization.
 
 Distance formula used for determining the similarity:
 Distance = 1/N where N is the number of same words in two sentences
